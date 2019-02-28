@@ -2,7 +2,7 @@
     "$schema-version": "0.0.1",
     "description": "",
     "image": {
-        "repository": "sebader/iot-edge-messageforwarder",
+        "repository": "lkgreg.azurecr.io/iot-edge-messageforwarder",
         "tag": {
             "version": "0.0.4",
             "platforms": {
